@@ -1,0 +1,14 @@
+# Environment and secrets
+.env
+
+# Python environments
+.venv/
+.venv-1/
+venv/
+
+# Python generated files
+__pycache__/
+*.py[cod]
+
+# Local tooling
+.streamlit/
